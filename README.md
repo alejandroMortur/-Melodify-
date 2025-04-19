@@ -8,7 +8,7 @@
 
 - ▶️ Reproducción de música en tiempo real.
 - 📂 Creación y gestión de listas de reproducción.
-- 🔐 Autenticación de usuarios (Google, Email).
+- 🔐 Autenticación de usuarios.
 - 🔍 Búsqueda inteligente de canciones, artistas y álbumes.
 - 🎨 Interfaz responsive y moderna con Material-UI.
 - 📊 Dashboard de usuario con estadísticas.
