@@ -1,0 +1,2 @@
+ng serve --open (angular)  
+npx tailwindcss -o src/styles.css --watch (tailwindcss)
